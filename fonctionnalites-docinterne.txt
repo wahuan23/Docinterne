@@ -1,0 +1,6 @@
+integration IA dans l'Ajout de doc 
+Historique des actions (Qui a vu le dossier , lu , modifie ) 
+historique des documents crees 
+Securisation des documents 
+Notifications 
+Statistiques 

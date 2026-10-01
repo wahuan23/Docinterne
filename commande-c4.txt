@@ -1,0 +1,16 @@
+#creer une migration 
+php spark make:migration CreateProduits 
+
+#executer migration 
+php spark migrate
+
+#creer modele 
+php spark make:model ProduitModel
+
+#creer controller 
+php spark make:controller Produit 
+
+#lancer server
+php spark serve
+
+
